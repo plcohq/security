@@ -1,0 +1,11 @@
+.c1 { font-weight: normal; font-size: 8pt; font-family: Verdana }
+.c2 { font-weight: normal; font-size: 10pt; font-family: Verdana }
+.c3 { color: white; font-weight: normal; font-size: 8pt; font-family: Verdana }
+
+A { color: #000080; font-family: Verdana; font-weight: bold; text-decoration: none }
+A:hover { text-decoration: underline }
+
+.nav { color: #6699cc; font-family: Verdana; font-weight: bold; text-decoration: none }
+.nav:hover { color: #ffffff; text-decoration: underline }
+
+IMG { border-color: #000000 }
